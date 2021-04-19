@@ -10,6 +10,8 @@ NLP on PRNewswire
 # many algorithms are a rudmentary version that needs improvement, namely, ticker mapping,
 # vector clustering, etc.
 
+# most of the script are meant to be run in a cloud environment (such as aws), since they are memory and processor intensive, personal computers usually won't be enough.
+
 
 1. download data
     1. t001_get_titles.py (prnews_title_dict.pkl)
