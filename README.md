@@ -37,3 +37,6 @@ TODO:
     4. download all article contents
     5. do analysis on article content with tfidf matrix
     6. look at other archived data in wayback machine
+
+# Also please note the nlp library used is in folder: nebula/util, which is actually a separate repo copied over for demonstration purposes.
+# The actual model used for training/predictions are not included in this repo, since the sizes are too large.
